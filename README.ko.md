@@ -20,6 +20,25 @@
 
 실제 흰 거품, 미세 기포, 투명 막, 젖은 가장자리, 터진 틈과 잔류 비눗물이 원본과 연결된 짙은 평면에서 주체를 직접 형성하며 정면 무왜곡 사진으로 보입니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026년 8월 22일<br>
+> GPT2 × 거품 × 재구성 × 미학 프롬프트 × VOL.043
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 예시 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 043의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 이 Skill이 필요한 이유
 
 이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
@@ -39,25 +58,6 @@ lock decisive contour and action → preserve three cues → translate solid for
 - **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
 
 미적 제약과 금지 항목은 [원본 프롬프트](references/043-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-043-prompt.en.md)
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026년 8월 22일<br>
-> GPT2 × 거품 × 재구성 × 미학 프롬프트 × VOL.043
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 예시 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 043의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

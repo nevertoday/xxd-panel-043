@@ -20,6 +20,25 @@
 
 主体由真实白色皂沫、细密气泡、透明泡膜、湿润边缘、破泡缺口和残留直接形成在与源图关联的深色平面上，并以正面无透视畸变摄影呈现。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026 年 8 月 22 日<br>
+> GPT2 × 泡沫 × 重构 × 美学提示词 × VOL.043
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 样张 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 043 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要这套 Skill
 
 这套风格依赖每一张源图，不是可替换内容的装饰预设。它遵循这条重构链：
@@ -39,25 +58,6 @@
 - 主体周围只允许少量散泡、水珠、接缝与湿痕，并保留大面积安静空间。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/043-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-043-prompt.en.md)
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026 年 8 月 22 日<br>
-> GPT2 × 泡沫 × 重构 × 美学提示词 × VOL.043
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 样张 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 043 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

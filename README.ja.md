@@ -20,6 +20,25 @@
 
 本物の白い泡、微細気泡、透明膜、濡れた縁、破泡の隙間、残液が、元写真に呼応する深い平面上で主体を直接形づくります。撮影は正面で透視歪みを持ちません。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026年8月22日<br>
+> GPT2 × 泡 × 再構成 × 美学プロンプト × VOL.043
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 作例 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 043 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## この Skill が必要な理由
 
 このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
@@ -39,25 +58,6 @@ lock decisive contour and action → preserve three cues → translate solid for
 - **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
 
 美的制約と拒否項目は[原文プロンプト](references/043-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-043-prompt.en.md)
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 2026年8月22日<br>
-> GPT2 × 泡 × 再構成 × 美学プロンプト × VOL.043
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 作例 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 043 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

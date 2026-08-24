@@ -20,6 +20,25 @@
 
 The subject forms directly from real white lather, microbubbles, translucent membranes, wet edges, popped gaps, and residue on a deep source-related plane, photographed frontally without perspective distortion.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 August 2026<br>
+> GPT2 × foam × reconstruction × aesthetic prompt × VOL.043
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 sample 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 043 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -39,25 +58,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Allow only a few scattered bubbles, droplets, seams, and wet traces around one subject; preserve large quiet space.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/043-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-043-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 August 2026<br>
-> GPT2 × foam × reconstruction × aesthetic prompt × VOL.043
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 sample 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 043 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

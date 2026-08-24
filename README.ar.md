@@ -20,6 +20,25 @@
 
 يتكوّن الموضوع مباشرة من رغوة بيضاء حقيقية وفقاعات دقيقة وأغشية شفافة وحواف رطبة وفجوات متفجرة وبقايا صابون على سطح داكن مرتبط بالمصدر، ويُصوّر من الأمام بلا تشوّه منظور.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 أغسطس 2026<br>
+> GPT2 × رغوة × إعادة بناء × توجيه جمالي × VOL.043
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 نموذج 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 043 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد هذه المهارة؟
 
 يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
@@ -39,25 +58,6 @@ lock decisive contour and action → preserve three cues → translate solid for
 - **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
 
 لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/043-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-043-prompt.en.md)
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 أغسطس 2026<br>
-> GPT2 × رغوة × إعادة بناء × توجيه جمالي × VOL.043
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 043 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 043 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 043 نموذج 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 043 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
