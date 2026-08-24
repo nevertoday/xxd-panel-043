@@ -1,5 +1,5 @@
 interface:
-  display_name: "🦁 XXD Panel 043"
+  display_name: "/xxd-panel-043"
   short_description: "Create source-aware XXD Panel 043 artwork"
   default_prompt: "Use $xxd-panel-043 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
 policy:
