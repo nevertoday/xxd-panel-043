@@ -39,7 +39,18 @@ The subject forms directly from real white lather, microbubbles, translucent mem
 
 These samples demonstrate the 043 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 043 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Let real soap foam redraw the subject on a dark wet plane |
+| **Recognizable signature** | REAL LATHER · FRONTAL FLAT-LAY · SOURCE-DARK GROUND · MICRO-BUBBLE EDGE · QUIET SPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -49,7 +60,7 @@ lock decisive contour and action → preserve three cues → translate solid for
 
 If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three cues across outline, proportion, pose, direction, action, opening, or structural turn.
 - Use genuine white, off-white, and translucent soap foam with varied microbubble size, bubble film, wet edge, popped cavities, merging, thinning, and small liquid residue.
