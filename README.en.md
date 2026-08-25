@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> REAL LATHER · FRONTAL FLAT-LAY · SOURCE-DARK GROUND · MICRO-BUBBLE EDGE · QUIET SPACE
-
-The subject forms directly from real white lather, microbubbles, translucent membranes, wet edges, popped gaps, and residue on a deep source-related plane, photographed frontally without perspective distortion.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 August 2026<br>
-> GPT2 × foam × reconstruction × aesthetic prompt × VOL.043
 
 <table>
   <tr>
@@ -35,9 +26,18 @@ The subject forms directly from real white lather, microbubbles, translucent mem
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091148211050127565) · 22 August 2026<br>
+> GPT2 × foam × reconstruction × aesthetic prompt × VOL.043
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091148211050127565">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 043 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> REAL LATHER · FRONTAL FLAT-LAY · SOURCE-DARK GROUND · MICRO-BUBBLE EDGE · QUIET SPACE
+
+The subject forms directly from real white lather, microbubbles, translucent membranes, wet edges, popped gaps, and residue on a deep source-related plane, photographed frontally without perspective distortion.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 043 right for you?
