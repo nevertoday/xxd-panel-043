@@ -39,6 +39,12 @@
 
 主体由真实白色皂沫、细密气泡、透明泡膜、湿润边缘、破泡缺口和残留直接形成在与源图关联的深色平面上，并以正面无透视畸变摄影呈现。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 043 适合你吗？
 
@@ -68,11 +74,11 @@
 - 选择从源图色相与温度衍生或协调的深、净、低反射、略湿平整底面，保持克制而明确的明暗对比。
 - 主体周围只允许少量散泡、水珠、接缝与湿痕，并保留大面积安静空间。
 
-原始审美约束与拒绝项只存在于[原始提示词](references/043-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-043-prompt.en.md)
+原始审美约束与拒绝项只存在于[原始提示词](references/original-prompt/zh-CN.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-043-prompt.en.md)
 
 ## 原始提示词优先，而不是二次导演
 
-`references/043-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -212,7 +218,7 @@ $xxd-panel-043
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/043-source.md) · [英文运行适配器](references/xxd-panel-043-prompt.en.md) · [中文运行适配器](references/xxd-panel-043-prompt.zh-CN.md)
+完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-043-prompt.en.md) · [中文运行适配器](references/xxd-panel-043-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
