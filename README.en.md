@@ -14,28 +14,6 @@
 
 </div>
 
-<!-- xxd-human-intro:start -->
-## Where this Panel fits — and what it solves
-
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
-
-**Panel 043** is suited to work that must retain the source's essential content while pursuing this visual direction: **Let real soap foam redraw the subject on a dark wet plane**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
-
-### Use it when
-
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
-
-### A simple way to begin
-
-You do not need to review every option first. Send your Agent an image and say:
-
-> Use XXD Panel 043 on this image and recommend the best layout and size first.
-
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
-<!-- xxd-human-intro:end -->
-
 ## Original Samples from X
 
 <table>
@@ -88,6 +66,28 @@ These samples demonstrate the 043 aesthetic motive. Their subjects, composition,
 > REAL LATHER · FRONTAL FLAT-LAY · SOURCE-DARK GROUND · MICRO-BUBBLE EDGE · QUIET SPACE
 
 The subject forms directly from real white lather, microbubbles, translucent membranes, wet edges, popped gaps, and residue on a deep source-related plane, photographed frontally without perspective distortion.
+
+<!-- xxd-human-intro:start -->
+## Where this Panel fits — and what it solves
+
+When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+
+**Panel 043** is suited to work that must retain the source's essential content while pursuing this visual direction: **Let real soap foam redraw the subject on a dark wet plane**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+
+### Use it when
+
+- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
+- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
+- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### A simple way to begin
+
+You do not need to review every option first. Send your Agent an image and say:
+
+> Use XXD Panel 043 on this image and recommend the best layout and size first.
+
+Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+<!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
 
