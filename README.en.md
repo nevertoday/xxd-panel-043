@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 043
+# 🦁 XXD Panel 043｜White Foam
 
 ### Let real soap foam redraw the subject on a dark wet plane
 

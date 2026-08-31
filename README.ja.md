@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 043
+# 🦁 XXD Panel 043｜白い泡
 
 ### 深い濡れた平面に、本物の泡で主体を描き直す
 

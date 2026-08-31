@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 043
+# 🦁 XXD Panel 043｜白色泡沫
 
 ### 让真实皂沫在深色湿润平面上重新描出主体
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 043
+# 🦁 XXD Panel 043｜하얀 거품
 
 ### 짙고 젖은 평면 위에 실제 비누 거품으로 주체를 다시 그리기
 
