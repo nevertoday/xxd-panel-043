@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-043"
-  short_description: "Create Panel 043 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-043; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "白色泡沫：用真实白色皂沫，在深色湿润平面上平视描出照片主体的轮廓"
+  default_prompt: "Use $xxd-panel-043 to turn my photo into White Foam artwork."
 
 policy:
   allow_implicit_invocation: true

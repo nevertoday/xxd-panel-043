@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 043｜White Foam: redraws the photo's subject in real white soap foam lying flat on a dark, slightly wet, low-reflection surface — dense bubbles of mixed size, clear bubble film, wet edges, a few popped bubbles and soap traces tracing only the key outline, proportions and gesture — shot straight on with no perspective distortion, a few stray bubbles and water marks, and wide quiet space. The deep background colour is taken or adapted from the photo. A very short title and tiny notes can run along the foam or be partly covered by it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-043 or asks for soap-foam drawing, bubble lettering or foam-on-dark-surface photography from a photo.",
+  "short_description": "白色泡沫：用真实白色皂沫，在深色湿润平面上平视描出照片主体的轮廓",
+  "zh-CN": {
+    "name": "白色泡沫",
+    "tagline": "用真实的白色皂沫，在一块深色湿润的平面上重新描出照片主体。",
+    "look": "主体不是立体模型，而是用白色和乳白的皂沫直接在平面上描出来：大小不一的细密气泡、透明泡膜、湿润边缘、几处破泡和皂液残留，只保留最关键的轮廓、比例和动作。镜头正对平面拍摄，横平竖直，没有透视变形；周围只散着少量气泡和水痕，留出大片安静的空间。底面是深色、略带湿润感的平整表面，颜色从照片里取并加深。一个极短标题和少量小字沿泡沫边缘或画面轴线排开，也可以被泡沫局部遮住。",
+    "traits": ["皂沫", "深色底", "细密泡缘", "正面平视", "安静空间"],
+    "good": [
+      "外轮廓清楚、一眼能认的主体：一只鸟、一片叶子、一辆自行车、一个侧影",
+      "姿态或动作鲜明的照片：跳跃的人、奔跑的狗、伸展的枝条",
+      "想做成概念海报、品牌视觉或安静壁纸的照片"
+    ],
+    "poor": [
+      "必须靠颜色或细节才能认出的对象：彩色花束、复杂机械、满墙招牌",
+      "人很多、轮廓交叠的场景，泡沫会糊成一片",
+      "想要浅色背景、3D 泡沫雕塑、卡通泡泡或浴室广告感的效果"
+    ]
+  },
+  "en": {
+    "name": "White Foam",
+    "tagline": "Redraws your photo's subject in real white soap foam on a dark, wet flat surface.",
+    "look": "The subject is not a 3D model but a drawing made directly in white and milky soap foam on a flat surface: dense bubbles of different sizes, clear bubble film, wet edges, a few popped bubbles and traces of soap, keeping only the key outline, proportions and gesture. The camera looks straight down at the surface, square and level, with no perspective distortion; only a few stray bubbles and water marks lie around it, leaving wide quiet space. The surface is dark and slightly wet, its colour taken from the photo and deepened. A very short title and a little small text run along the foam's edge or the image axis, and can be partly covered by foam.",
+    "traits": ["Soap foam", "Dark ground", "Fine bubble edges", "Straight-on view", "Quiet space"],
+    "good": [
+      "Subjects with a clear, recognisable outline: a bird, a leaf, a bicycle, a profile",
+      "Photos with a strong pose or movement: someone jumping, a running dog, a reaching branch",
+      "Photos you want as a concept poster, a brand visual or a calm wallpaper"
+    ],
+    "poor": [
+      "Subjects recognisable only by colour or detail: a colourful bouquet, complex machinery, a wall of signs",
+      "Crowded scenes with overlapping outlines, which turn into one patch of foam",
+      "Requests for a pale background, a 3D foam sculpture, cartoon bubbles or a bathroom-ad look"
+    ]
+  },
+  "ja": {
+    "name": "白い泡",
+    "tagline": "本物の白い石けんの泡で、暗く濡れた平面の上に写真の主役を描き直します。",
+    "look": "主役は立体模型ではなく、白や乳白の石けんの泡で平面に直接描かれます。大小さまざまな細かい泡、透明な泡の膜、濡れた縁、いくつか割れた泡、石けん液の跡で、いちばん大事な輪郭、比率、動きだけを残します。カメラは平面に正対し、水平と垂直を保ち、遠近の歪みはありません。まわりには少しの泡と水の跡が散るだけで、静かな空間が広く残ります。台になる面は暗く少し濡れた平らな面で、色は写真から取って深めます。ごく短いタイトルと小さな文字が泡の縁や画面の軸に沿って並び、泡に一部隠れることもあります。",
+    "traits": ["石けんの泡", "暗い地", "細やかな泡の縁", "正面からの視点", "静かな空間"],
+    "good": [
+      "輪郭がはっきりして一目でわかる主役：鳥、一枚の葉、自転車、横顔",
+      "姿勢や動きが印象的な写真：跳ぶ人、走る犬、伸びる枝",
+      "コンセプトポスター、ブランドビジュアル、静かな壁紙にしたい写真"
+    ],
+    "poor": [
+      "色や細部がないと何かわからないもの：色とりどりの花束、複雑な機械、看板だらけの壁",
+      "人が多く輪郭が重なる場面（泡がひとかたまりになります）",
+      "明るい背景、3D の泡の彫刻、キャラクター風の泡、バスルーム広告のような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "하얀 거품",
+    "tagline": "진짜 하얀 비누 거품으로 짙고 젖은 평면 위에 사진의 주인공을 다시 그립니다.",
+    "look": "주인공은 입체 모형이 아니라 하얗고 우윳빛 나는 비누 거품으로 평면 위에 직접 그려집니다. 크기가 제각각인 촘촘한 기포, 투명한 거품막, 젖은 가장자리, 몇 군데 터진 거품과 비눗물 자국으로 가장 중요한 윤곽, 비율, 동작만 남깁니다. 카메라는 평면을 정면으로 마주하고 수평과 수직을 지키며 원근 왜곡이 없습니다. 주변에는 거품 몇 방울과 물 자국만 흩어져 넓고 조용한 공간이 남습니다. 바닥은 짙고 살짝 젖은 평평한 표면으로, 색은 사진에서 가져와 더 깊게 만듭니다. 아주 짧은 제목과 작은 글자가 거품 가장자리나 화면 축을 따라 놓이고, 거품에 일부 가려지기도 합니다.",
+    "traits": ["비누 거품", "짙은 바탕", "촘촘한 거품 가장자리", "정면 수평 시점", "조용한 공간"],
+    "good": [
+      "윤곽이 분명해 한눈에 알아볼 수 있는 주인공: 새, 나뭇잎 하나, 자전거, 옆모습",
+      "자세나 동작이 뚜렷한 사진: 뛰어오르는 사람, 달리는 강아지, 뻗은 가지",
+      "콘셉트 포스터, 브랜드 비주얼, 차분한 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이나 세부가 있어야 알아볼 수 있는 대상: 알록달록한 꽃다발, 복잡한 기계, 간판으로 가득한 벽",
+      "사람이 많고 윤곽이 겹치는 장면(거품이 한 덩어리로 뭉개집니다)",
+      "밝은 배경, 3D 거품 조각, 만화 같은 비눗방울, 욕실 광고 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رغوة بيضاء",
+    "tagline": "يعيد رسم موضوع صورتك برغوة صابون بيضاء حقيقية على سطح مستوٍ داكن ورطب.",
+    "look": "الموضوع ليس مجسماً ثلاثي الأبعاد، بل رسم مصنوع مباشرة برغوة صابون بيضاء وحليبية على سطح مستوٍ: فقاعات كثيفة متفاوتة الأحجام وأغشية فقاعات شفافة وحواف رطبة وبعض الفقاعات المنفجرة وآثار صابون، لا تحتفظ إلا بالخط الخارجي والنِسب والحركة الأساسية. تنظر الكاميرا إلى السطح مواجهةً، مستقيمة ومتوازنة، بلا أي تشوه منظوري، ولا يحيط بالرسم إلا قليل من الفقاعات المتناثرة وآثار الماء، فيبقى فراغ هادئ واسع. السطح داكن ورطب قليلاً، لونه مأخوذ من الصورة ومعمَّق. يمتد عنوان قصير جداً وقليل من النص الصغير على حافة الرغوة أو محور الصورة، وقد تغطي الرغوة جزءاً منه.",
+    "traits": ["رغوة صابون", "أرضية داكنة", "حواف فقاعات دقيقة", "نظرة مواجهة", "فراغ هادئ"],
+    "good": [
+      "موضوعات بخط خارجي واضح يُعرف بسهولة: طائر، ورقة شجر، دراجة، وجه جانبي",
+      "صور فيها وضعية أو حركة قوية: شخص يقفز، كلب يركض، غصن ممتد",
+      "صور تريدها ملصقاً مفاهيمياً أو هوية بصرية لعلامة أو خلفية هادئة"
+    ],
+    "poor": [
+      "موضوعات لا تُعرف إلا بألوانها أو تفاصيلها: باقة ملوّنة، آلات معقدة، جدار من اللافتات",
+      "مشاهد مزدحمة تتداخل فيها الخطوط، فتتحول إلى بقعة رغوة واحدة",
+      "طلب خلفية فاتحة أو منحوتة رغوة ثلاثية الأبعاد أو فقاعات كرتونية أو طابع إعلانات الحمامات"
+    ]
+  }
+}

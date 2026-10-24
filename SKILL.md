@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-043
-description: "Create XXD Panel 043 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-043 or requests the exact Panel 043 style."
+description: "XXD Panel 043｜White Foam: redraws the photo's subject in real white soap foam lying flat on a dark, slightly wet, low-reflection surface — dense bubbles of mixed size, clear bubble film, wet edges, a few popped bubbles and soap traces tracing only the key outline, proportions and gesture — shot straight on with no perspective distortion, a few stray bubbles and water marks, and wide quiet space. The deep background colour is taken or adapted from the photo. A very short title and tiny notes can run along the foam or be partly covered by it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-043 or asks for soap-foam drawing, bubble lettering or foam-on-dark-surface photography from a photo."
 ---
 
 # XXD Panel 043
